@@ -1,0 +1,5 @@
+CLASS zbp_dd_booking_ale DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zdd_booking_ale.
+ENDCLASS.
+
+CLASS zbp_dd_booking_ale IMPLEMENTATION.
+ENDCLASS.

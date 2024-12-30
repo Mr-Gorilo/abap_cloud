@@ -1,0 +1,5 @@
+@EndUserText.label: 'Service Definition for Booking'
+define service ZSD_BOOKING_XXX {
+  expose ZDD_BOOKING_ALE;
+  expose I_Country       as Country;
+}
